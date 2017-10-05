@@ -1,8 +1,8 @@
-﻿Using System;
-Using System.Collections.Generic;
-Using System.Linq;
-Using System.Web;
-Using System.Web.Mvc;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.Mvc;
 
 namespace ComicBookGallery.Controllers
 {
