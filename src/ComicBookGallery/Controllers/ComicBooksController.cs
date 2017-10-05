@@ -4,13 +4,13 @@ Using System.Linq;
 Using System.Web;
 Using System.Web.Mvc;
 
-Namespace ComicBookGallery.Controllers
+namespace ComicBookGallery.Controllers
 {
-	Public Class ComicBooksController :  Controller
+	public class ComicBooksController :  Controller
 	{
-		Public void Detail()
+		public string Detail()
 		{
-			Return "Hello from the comic books"
-			}
+			return "Hello from the comic books";
+		}
 	}
 }
